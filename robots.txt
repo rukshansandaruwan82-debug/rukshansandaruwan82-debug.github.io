@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rukshansandaruwan82-debug.github.io/sitemap.xml
