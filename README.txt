@@ -1,5 +1,14 @@
-MR RUKA's HUB — GitHub Pages Website
+MR RUKA's HUB — Website
 
-Important: Before publishing, open contact.html and replace BOTH occurrences of rukshansandaruwan82@gmail.com with your real public email address. The Contact Form has been removed and replaced with a Direct Email button.
+Pages included:
+- Home
+- About Us
+- Videos
+- Blog
+- Contact Us
+- Privacy Policy
+- Terms & Conditions
 
-Files: index.html, about.html, videos.html, blog.html, contact.html, privacy.html, terms.html, style.css, script.js, logo.svg.
+Contact email: rukshansandaruwan82@gmail.com
+
+The Contact page uses a direct mailto email button. No contact-form service is required.
